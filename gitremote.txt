@@ -1,0 +1,8 @@
+1.git account 
+2.empty repo
+3.local system
+git config --global user.name ""
+git config --global user.email""
+4.git push -u origin main
+username=
+pass=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
